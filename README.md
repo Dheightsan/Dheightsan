@@ -1,5 +1,6 @@
-Hi, I'm José Daniel. I write Python and Java in Santiago, Chile.
+Hi, I'm José Daniel. I write Python, Java and TypeScript in Santiago, Chile.
 
+- [control-asistencia](https://dheightsan.github.io/control-asistencia/): attendance and overtime tracking under Chile's 42-hour work week. NestJS, PostgreSQL and Next.js, with unit, API and Playwright tests. CI.
 - [books-crawler](https://github.com/Dheightsan/books-crawler): a polite web crawler. It reads robots.txt, saves to SQLite, has SQL reports and a Docker image. 49 tests, CI.
 - [grounded-faq-api](https://github.com/Dheightsan/grounded-faq-api): a FastAPI service that answers only from a fixed fact file. 30 tests, CI.
 - [gh-momentum](https://github.com/Dheightsan/gh-momentum): a PyPI package that ranks GitHub repos by star velocity. 35 tests, CI.
